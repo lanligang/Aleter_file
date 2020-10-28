@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'MBaseAlertKit'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = 'A short description of MBaseAlertKit.'
   s.description      = <<-DESC
   上下弹、左右边抽屉、日期选择、地址选择、时间选择弹框！
