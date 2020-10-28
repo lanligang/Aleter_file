@@ -11,8 +11,7 @@ Pod::Spec.new do |s|
   s.author           = { 'z2330713971@gmail.com' => '123456sdasdasdasdad@qq.com' }
   s.source           = { :git => 'https://github.com/lanligang/Aleter_file.git', :tag => s.version }
   s.ios.deployment_target = '9.0'
-  s.source_files = 'class/**/*.{h,m}'
-  
+  s.source_files = 'AMBaseAlertKit/class/**/*.{h,m}'
    s.frameworks = 'UIKit', 'Foundation'
    s.dependency 'Masonry'
 
